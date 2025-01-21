@@ -1,0 +1,8 @@
+langchain
+langchain_core
+langchain_community
+python-dotenv
+ipykernel
+langchain_google_genai
+pypdf
+faiss-cpu
